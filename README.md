@@ -8,7 +8,7 @@ Install MySQL to run the database.
  Run the sql query PAF-System-DB-data-seeding-script.sql
 
 Clone the project from the GIT repository.
-	link ->	git clone https://github.com/janith29/PAF_online.git
+	link ->	git clone https://github.com/lahiruMendis/PAF_Online_25_05_2019
 
 Open from eclipse the sellnbye webservice.
 
